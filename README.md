@@ -6,7 +6,7 @@
 - title()
 - swapcase()
 - replace()
-- range() with step
+- range() with step 
 
 ## 📂 Programs Included
  
