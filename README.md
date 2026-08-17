@@ -11,7 +11,7 @@
 ## 📂 Programs Included
  
 - Capitalize Method
-- Title Method
+- Title Method 
 - Swapcase Method
 - Replace Method
 - Range Step Program
