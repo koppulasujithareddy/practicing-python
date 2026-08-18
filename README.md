@@ -7,7 +7,7 @@
 - swapcase()
 - replace()
 - range() with step 
-
+ 
 ## 📂 Programs Included
  
 - Capitalize Method
