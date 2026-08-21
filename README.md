@@ -12,7 +12,7 @@
  
 - Capitalize Method
 - Title Method 
-- Swapcase Method
+- Swapcase Method 
 - Replace Method
 - Range Step Program
 
