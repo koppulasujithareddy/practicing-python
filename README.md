@@ -10,7 +10,7 @@
  
 ## 📂 Programs Included
  
-- Capitalize Method
+- Capitalize Method 
 - Title Method 
 - Swapcase Method 
 - Replace Method
