@@ -4,7 +4,7 @@
 
 - capitalize()
 - title()
-- swapcase()
+- swapcase() 
 - replace()
 - range() with step 
      
