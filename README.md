@@ -8,7 +8,7 @@
 - replace()
 - range() with step 
      
-## 📂 Programs Included
+## 📂 Programs Included 
        
 - Capitalize Method   
 - Title Method  
